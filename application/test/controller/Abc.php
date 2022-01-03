@@ -11,5 +11,4 @@ class Abc
         );
         return json($data);
     }
-
 }
